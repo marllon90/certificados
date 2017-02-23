@@ -1,0 +1,1 @@
+openssl pkcs12 -export in nameoffile.crt -inkey nameoffile.key -out nameoffile.pfx -certfile nameoffile.ca
